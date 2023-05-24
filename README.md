@@ -1,0 +1,1 @@
+# BackgroundEmailSender.OutboxPattern
