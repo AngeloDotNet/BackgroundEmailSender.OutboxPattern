@@ -1,0 +1,8 @@
+version: '3.7'
+
+services:
+  backgroundemail:
+    image: bemail-sender
+    build:
+      context: .
+      dockerfile: src/Dockerfile
